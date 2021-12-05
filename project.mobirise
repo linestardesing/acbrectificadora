@@ -43,7 +43,7 @@
     ],
     "imageResize": true,
     "uniqCompNum": 27,
-    "versionPublish": "5.3.10",
+    "versionPublish": "5.5.0",
     "screenshot": "screenshot.png",
     "chatbutton": {
       "phone": "+593995966734",
@@ -1385,7 +1385,7 @@
         },
         {
           "_name": "contact2",
-          "_customHTML": "<section class=\"contact2\" group=\"Contact\">\n\n    <mbr-parameters>\n        <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"map\" title=\"Map\" name=\"googleMap\" place-id=\"rectificadora acb\" value=\"rectificadora acb\">\n        <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"google-map\" mbr-map=\"googleMap\">\n    </div>\n</section>",
+          "_customHTML": "<section class=\"contact2\" group=\"Contact\">\n\n    <mbr-parameters>\n        <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"map\" title=\"Map\" name=\"googleMap\" place-id=\"ACB Rectificadora, Quito, Ecuador\" value=\"ACB Rectificadora, Quito, Ecuador\">\n        <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"google-map\" mbr-map=\"googleMap\">\n    </div>\n</section>",
           "_styles": {
             ".google-map": {
               "filter": "grayscale(0.9)",
