@@ -68,7 +68,7 @@
       "themeColor": "#e2090d"
     },
     "favicon": false,
-    "mbrsiteDomain": "neoqkmwsgt",
+    "mbrsiteDomain": "pkyrglfse8",
     "cssOptimize": false,
     "lazyLoad": false,
     "robotsSwitcher": false,
@@ -77,7 +77,9 @@
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "pwa-switcher": true
+    "pwa-switcher": true,
+    "google-analytics": "<meta name=\"google-site-verification\" content=\"CKwQXCZAX02b56DqrafGrjVCD0HwvN6dfg87wVr6cKY\" />",
+    "global_after_body": "<meta name=\"google-site-verification\" content=\"CKwQXCZAX02b56DqrafGrjVCD0HwvN6dfg87wVr6cKY\" />"
   },
   "pages": {
     "index.html": {
